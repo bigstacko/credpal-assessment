@@ -1,5 +1,9 @@
 CredPal DevOps Assessment – Node.js Application
 
+AUTHOR: ADARAMOLA P. OLAMIDE 
+ROLE: DevOps Engineer
+
+AIM:
 This repository contains a simple Node.js application and a complete production-ready DevOps setup, including containerization, CI/CD automation, and cloud infrastructure provisioning using Terraform on AWS.
 
 APPLICATION OVERVIEW
