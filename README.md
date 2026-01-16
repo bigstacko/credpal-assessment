@@ -27,7 +27,8 @@ Prerequisites
 STEPS:
 
 - Clone the repository:
-git clone https://github.com/bigstacko/credpal-devops-assessment.git
+git clone https://github.com/bigstacko/credpal-assessment.git
+
 cd credpal-devops-assessment/
 
 - Start the application and Redis using Docker Compose:
